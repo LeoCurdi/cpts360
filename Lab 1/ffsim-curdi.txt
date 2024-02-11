@@ -1,0 +1,10 @@
+D /
+D /School
+D /School/cpts322
+D /School/cpts350
+D /School/cpts360
+D /Documents
+F /Documents/resume.pdf
+F /Documents/notes.txt
+D /Pictures
+F /Pictures/skiing.jpg
